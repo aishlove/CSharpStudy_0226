@@ -1,0 +1,16 @@
+C:\UnityProject\CSharpStudy_0226\bin\Debug\net5.0\CSharpStudy_0226.exe
+C:\UnityProject\CSharpStudy_0226\bin\Debug\net5.0\CSharpStudy_0226.deps.json
+C:\UnityProject\CSharpStudy_0226\bin\Debug\net5.0\CSharpStudy_0226.runtimeconfig.json
+C:\UnityProject\CSharpStudy_0226\bin\Debug\net5.0\CSharpStudy_0226.runtimeconfig.dev.json
+C:\UnityProject\CSharpStudy_0226\bin\Debug\net5.0\CSharpStudy_0226.dll
+C:\UnityProject\CSharpStudy_0226\bin\Debug\net5.0\ref\CSharpStudy_0226.dll
+C:\UnityProject\CSharpStudy_0226\bin\Debug\net5.0\CSharpStudy_0226.pdb
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.csprojAssemblyReference.cache
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.AssemblyInfoInputs.cache
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.AssemblyInfo.cs
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.csproj.CoreCompileInputs.cache
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.dll
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\ref\CSharpStudy_0226.dll
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.pdb
+C:\UnityProject\CSharpStudy_0226\obj\Debug\net5.0\CSharpStudy_0226.genruntimeconfig.cache
