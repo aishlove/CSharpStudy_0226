@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UnityProject\\CSharpStudy_0226\\CSharpStudy_0226.csproj",
+      "projectUniqueName": "C:\\Users\\aishl\\CSharpStudy_0226\\CSharpStudy_0226.csproj",
       "projectName": "CSharpStudy_0226",
-      "projectPath": "C:\\UnityProject\\CSharpStudy_0226\\CSharpStudy_0226.csproj",
+      "projectPath": "C:\\Users\\aishl\\CSharpStudy_0226\\CSharpStudy_0226.csproj",
       "packagesPath": "C:\\Users\\aishl\\.nuget\\packages\\",
-      "outputPath": "C:\\UnityProject\\CSharpStudy_0226\\obj\\",
+      "outputPath": "C:\\Users\\aishl\\CSharpStudy_0226\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
